@@ -77,8 +77,8 @@ high
 
 id6
 91       	 <--TYPE
-407       	 <--LEFT
-171       	 <--TOP
+401       	 <--LEFT
+168       	 <--TOP
 182       	 <--WIDTH
 40       	 <--HEIGHT
 16777215       	 <--BACKCOLOR
